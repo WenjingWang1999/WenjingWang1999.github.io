@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Wenjing WANG 汪文璟 @ WHU"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://WenjingWang1999.github.io"
+name                     : #&name "Your Name"
+description              : #&description "personal description"
+url                      : "https://wenjingwang1999.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WenjingWang1999/WenjingWang1999.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "wwj.png"
   name             : "Wenjing WANG 汪文璟"
   pronouns         : # example: "she/her"  
-  bio              : "武汉大学国际法研究所博士生; 瑞士比较法研究所联合培养博士生"
+  bio              : "武汉大学国际法研究所博士生 | 瑞士比较法研究所联合培养博士生"
   location         : "WuHan, China"
   employer         : "Wuhan University"
   uri              : # URL
