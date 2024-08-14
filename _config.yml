@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "WenJingWang 汪文璟@WHU"
+title                    : "WANG WenJing 汪文璟"
 title_separator          : "-"
 name                     : #&name "Your Name"
 description              : #&description "personal description"
@@ -22,9 +22,9 @@ repository               : "WenjingWang1999/WenjingWang1999.github.io"
 author:
   # Biographic information
   avatar           : "wwj.png"
-  name             : "Wenjing WANG 汪文璟"
+  name             : "WANG Wenjing 汪文璟"
   pronouns         : # example: "she/her"  
-  bio              : "武汉大学国际法研究所博士生 | 瑞士比较法研究所联合培养博士生"
+  bio              : "武汉大学国际法研究所、瑞士比较法研究所联合培养博士生"
   location         : "WuHan, China"
   employer         : "Wuhan University"
   uri              : # URL
