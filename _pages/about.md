@@ -11,7 +11,7 @@ redirect_from:
 国际法学（国际私法） 博士研究生<br/>
 导师：[黄进](https://wapbaike.baidu.com/item/%E9%BB%84%E8%BF%9B/3897957) 中国法学会副会长、中国国际法学学会会长<br/>
 
-**2024- 瑞士比较法研究所**<br/>
+**2024-至今 瑞士比较法研究所**<br/>
 联合培养博士生（CSC公派）<br/>
 导师：[Lukas Heckendorn Urscheler](https://www.isdc.ch/en/sicl/team) 瑞士比较法研究所代理所长<br/>
 
@@ -20,7 +20,7 @@ redirect_from:
 导师：[邹国勇](https://law.whu.edu.cn/info/1233/5316.htm) 中国国际私法学会副秘书长<br/>
 
 **2016-2020 安徽大学**<br/>
-法学院 学士<br/>
+法学 学士<br/>
 导师：[汪金兰](https://law.ahu.edu.cn/2011/0117/c5033a35859/page.htm) 安徽省法学会国际法学会副会长<br/>
 
 ## 论文
